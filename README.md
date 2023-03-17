@@ -1,4 +1,4 @@
-# How to Fix
+# How to Fix Bluetooth Connection on Linux
 
 ## Please not for this solution to work, i was using Ubuntu 20.04.
 
